@@ -64,5 +64,117 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Post Affiliate Pro is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://postaffiliatepro.com/
+Post Affiliate Pro provides a comprehensive affiliate marketing platform that enables businesses to create, manage, and track affiliate programs and networks. The SaaS solution offers tools for affiliate tracking, reporting, automation, and customizable templates, supporting both merchants and affiliates. With over 20 years in the industry, it serves thousands of brands worldwide, offering a 30‑day free trial, no setup fee, and 24/7 customer support.
+
+**Areas:** Affiliate · Marketing · SaaS · Tracking · Automation · Company
+
+## Post Affiliate Pro on APIs.io
+
+Everything profiled for Post Affiliate Pro is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/post-affiliate-pro/](https://apis.io/providers/post-affiliate-pro/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Post Affiliate Pro API](https://apis.io/apis/post-affiliate-pro/post-affiliate-pro-api/) — Post Affiliate Pro API as documented publicly: 10 operations. Contract generated from the documentation by API Evangelist (2026-11-16); not the provider's…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [PostPluginsDwollaDwollaPhpRequest](https://apis.io/schemas/post-affiliate-pro/post-affiliate-pro-post-plugins-dwolla-dwolla-php-request/)
+- [PostPluginsEwayEwayPhpRequest](https://apis.io/schemas/post-affiliate-pro/post-affiliate-pro-post-plugins-eway-eway-php-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Post Affiliate Pro Context](https://apis.io/jsonld/post-affiliate-pro/post-affiliate-pro-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Post Affiliate Pro API Rules](https://apis.io/rules/post-affiliate-pro/post-affiliate-pro-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Post Affiliate Pro Domain Security](https://apis.io/security/post-affiliate-pro/post-affiliate-pro-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Post Affiliate Pro Plans Pricing](https://apis.io/plans/post-affiliate-pro/post-affiliate-pro-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.postaffiliatepro.com/)
+- [Documentation](https://dev.postaffiliatepro.com/)
+- [Pricing](https://www.postaffiliatepro.com/pricing/)
+- [Blog](https://www.postaffiliatepro.com/blog/)
+- [Terms of service](https://www.postaffiliatepro.com/terms-of-service/)
+- [Privacy policy](https://www.postaffiliatepro.com/privacy-policy/)
+- [Status](https://status.postaffiliatepro.com/)
+
+## API Evangelist rating
+
+**Kin Score 47.7** — developing · rubric 0.27.0 · scored 2026-11-16
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 43.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 73.2 |
+
+**Agent readiness 17.8** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 18.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/post-affiliate-pro/](https://apis.io/providers/post-affiliate-pro/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Post Affiliate Pro: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/post-affiliate-pro/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
